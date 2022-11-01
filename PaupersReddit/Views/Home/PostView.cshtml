@@ -1,0 +1,8 @@
+﻿@model SWPost
+
+@foreach (Child c in Model.data.children)
+{
+    <p> @c.data.title</p>
+    <img src="@c.data.thumbnail"/>
+    <p><a href="@($"https://reddit.com{c.data.permalink}")">Source</a></p>
+}

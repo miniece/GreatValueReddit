@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zV32xD4pjC1hTgXKMocshrP/r11esH0RXVaMvRYfqpGhTesOq3geaFWnPMnGMnXOskcYLCKd5BJyYdN+4cpjSA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\xmini\\Documents\\BootcampLabs\\PaupersReddit\\PaupersReddit\\PaupersReddit.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xmini\\.nuget\\packages\\restsharp\\108.0.2\\restsharp.108.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
